@@ -6,3 +6,6 @@ It cosnists of 3 files:
 - script.js
 
 
+Here is what the app looks like on Firefox web browser:
+
+
