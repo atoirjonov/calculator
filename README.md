@@ -8,4 +8,6 @@ It cosnists of 3 files:
 
 Here is what the app looks like on Firefox web browser:
 
+![Text](calcScreenshot.png)
+
 
